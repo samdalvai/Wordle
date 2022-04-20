@@ -1,5 +1,5 @@
 ## Project
-A command line version of the game `Wordle` using `Typescript` and functional programming paradigm.
+A command line version of the game `Wordle` using `Typescript` and functional programming paradigm. The original game can be played online at his [link](https://www.nytimes.com/games/wordle/index.html).
 
 ## Requirements
 * Node.js 
