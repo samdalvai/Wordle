@@ -1,5 +1,5 @@
 ## Project
-A command line version of the game `Wordle` using `Typescript` and functional programming paradigm. The original game can be played online at his [link](https://www.nytimes.com/games/wordle/index.html).
+A command line version of the game `Wordle` using `Typescript` and functional programming paradigm.
 
 ## Requirements
 * Node.js 
@@ -12,11 +12,9 @@ A command line version of the game `Wordle` using `Typescript` and functional pr
 * From the root folder of the project, run the following commands:
     * `npm run build` to build the project
     * `npm run wordle` to run the app
-
 ## How to run the tests
 * `npm i -D chai mocha nyc ts-node typescript`
 * `npm i -D @types/chai @types/mocha`
 * `npm run test` run the tests
-
 ## Author
 Samuel Dalvai
