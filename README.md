@@ -4,3 +4,8 @@ Two versions of the popular game `Wordle`. The first is a command-line version d
 Instructions on how to run the two projects can be found in the specific folders:
 * [Wordle-Typescript/](Wordle-Typescript)
 * [Wordle-React/](Wordle-React)
+
+## Application demo
+
+* Working demo of the command line version: https://replit.com/@samdalvai/WordleCommandLine#index.ts
+* Working demo of the React version: https://snack.expo.dev/@samdalvai/wordle-react
