@@ -19,5 +19,13 @@ A `React` native version of the game `Wordle` using `Typescript` and functional 
 * `npm i -D @types/chai @types/mocha`
 * `npm run test` run the tests
 
+## How to run the application on your mobile phone
+* Install the [Expo Go](https://expo.dev/client) application on your smartphone.
+* Connect with your smartphone to the same network as you local machine (e.g. Wi-fi).
+* Open the `Expo Go` app on your smartphone and select `Scan QR code`.
+* Scan the QR code on the bottom left corner of the Expo Developer Tools webpage (on http://localhost:19002/).
+* The application will open up on your smartphone
+* Please note that on `iOS` you might not find the `QR Code` option, in that case you will need to manually enter the url of the expo snack demo, see [Readme](../README.md)
+
 ## Author
 Samuel Dalvai
