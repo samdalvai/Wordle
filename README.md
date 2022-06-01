@@ -11,3 +11,5 @@ Instructions on how to run the two projects can be found in the specific folders
 * Working demo of the command line version: https://replit.com/@samdalvai/WordleCommandLine#index.ts
 * Working demo of the React version: https://snack.expo.dev/@samdalvai/wordle-react
 * Working demo of the React Advanced version: https://snack.expo.dev/@samdalvai/wordlereactadvanced
+
+Please note that for the two `React` versions of the application, if you want to run the mobile version of the app, you will need to install the [Expo Go](https://expo.dev/client) application on your smartphone. Some functionalities of the game are restricted only to the mobile version, for example "sharing" your win.
