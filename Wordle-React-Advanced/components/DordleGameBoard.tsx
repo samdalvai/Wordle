@@ -159,7 +159,10 @@ export const DordleGameBoard = ({ gameData, gameMode, onWin, onLose, onBack, onR
         if (result === GameResult.Win) {
             if (sides[0] && sides[1]) {
                 winMessage()
-            } 
+            } else if (currentRow === 6){
+                lossMessage(words)
+                setFinished(true)
+            }
         } else {
             lossMessage(words)
             setFinished(true)
